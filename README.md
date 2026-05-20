@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect with me</h2>
+<h2 align="left">🌐 Contactez moi</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-benachenhou-56537125b/" target="_blank">
