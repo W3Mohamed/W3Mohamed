@@ -67,9 +67,9 @@
 
 <h2 align="left">🔥 My Projects</h2>
 
-- [Awesome Project 1](https://github.com/yourusername/project1) - Short description
-- [Awesome Project 2](https://github.com/yourusername/project2) - Short description
-- [Awesome Project 3](https://github.com/yourusername/project3) - Short description
+- [El Wakil Immobilier](https://github.com/W3Mohamed/Real-Estate-ElWakil) - Plateforme immobilière développée avec Symfony et MySQL permettant de publier des biens et de gérer les clients.
+- [PostIt ](https://github.com/W3Mohamed/post-it) - API REST développée avec Express.js pour créer, gérer et organiser des publications et notes de manière efficace.
+- [Site Vitrine Moderne](https://github.com/W3Mohamed/coach) - Site vitrine responsive réalisé avec React.js offrant une interface moderne et une expérience utilisateur fluide.
 
 ###
 
