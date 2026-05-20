@@ -65,14 +65,10 @@
 
 ###
 
-<h2 align="left">🔥 My Projects</h2>
+<h2 align="left">🔥 Mes Projets</h2>
 
 - [El Wakil Immobilier](https://github.com/W3Mohamed/Real-Estate-ElWakil) - Plateforme immobilière développée avec Symfony et MySQL permettant de publier des biens et de gérer les clients.
 - [PostIt ](https://github.com/W3Mohamed/post-it) - API REST développée avec Express.js pour créer, gérer et organiser des publications et notes de manière efficace.
 - [Site Vitrine Moderne](https://github.com/W3Mohamed/coach) - Site vitrine responsive réalisé avec React.js offrant une interface moderne et une expérience utilisateur fluide.
 
 ###
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Playing" />
-</div>
