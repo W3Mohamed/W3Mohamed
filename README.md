@@ -64,7 +64,7 @@ Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027**, id�
 
 **Académique / Algorithmique**
 - [Simulation MAC (Medium Access Control)](https://github.com/W3Mohamed/Projet-Simulation) — Projet M1 en Python simulant des protocoles d'accès au médium partagé en réseau.
-- [Ranking par chaînes de Markov](https://github.com/W3Mohamed/markov-ranking) — Projet M1 en C implémentant une méthode de ranking basée sur des matrices et chaînes de Markov.
+- [Ranking par chaînes de Markov](https://github.com/W3Mohamed/Projet-Ranking) — Projet M1 en C implémentant une méthode de ranking basée sur des matrices et chaînes de Markov.
 
 <br>
 
