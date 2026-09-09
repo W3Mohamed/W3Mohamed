@@ -63,10 +63,8 @@ Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027**, id�
 - [Site Vitrine Moderne](https://github.com/W3Mohamed/coach) — Site vitrine responsive réalisé avec React.js offrant une interface moderne et fluide.
 
 **Académique / Algorithmique**
-- [Simulation MAC (Medium Access Control)](https://github.com/W3Mohamed/mac-simulation) — Projet M1 en Python simulant des protocoles d'accès au médium partagé en réseau.
+- [Simulation MAC (Medium Access Control)](https://github.com/W3Mohamed/Projet-Simulation) — Projet M1 en Python simulant des protocoles d'accès au médium partagé en réseau.
 - [Ranking par chaînes de Markov](https://github.com/W3Mohamed/markov-ranking) — Projet M1 en C implémentant une méthode de ranking basée sur des matrices et chaînes de Markov.
-
-> ⚠️ Liens temporaires à remplacer par les URLs définitives une fois les dépôts publiés.
 
 <br>
 
