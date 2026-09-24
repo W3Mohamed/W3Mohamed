@@ -65,6 +65,9 @@ Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027**, id�
 **Académique / Algorithmique**
 - [Simulation MAC (Medium Access Control)](https://github.com/W3Mohamed/Projet-Simulation) — Projet M1 en Python simulant des protocoles d'accès au médium partagé en réseau.
 - [Ranking par chaînes de Markov](https://github.com/W3Mohamed/Projet-Ranking) — Projet M1 en C implémentant une méthode de ranking basée sur des matrices et chaînes de Markov.
+- [Efficacité énergétique d'un programme](https://github.com/W3Mohamed/TER-M1-efficacite-energetique) — Étude en Rust de différentes implémentations de la multiplication de matrices et comparaison de leur consommation énergétique.
+- [Pattern Builder en Java](https://github.com/W3Mohamed/java-builder-pattern) — Implémentation du pattern Builder en Java à travers la création d'objets `Book` et de tests unitaires.
+- [Patterns Composite et Iterator en Java](https://github.com/W3Mohamed/java-composite-iterator-pattern) — Implémentation des patterns Composite et Iterator en Java pour simuler un système de fichiers.
 
 <br>
 
